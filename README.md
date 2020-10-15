@@ -1,5 +1,5 @@
 <h1 align="center">
-	<sup> <font size=5> <i> . . . wellcome to the </i> </font> </sup> <br>
+	<sub> <font size=5> <i> . . . wellcome to the </i> </font> </sub> <br>
 	<font size=8> <b> < STEPS CHALLENGE > </b> </font><br>
 	<sup> <font size=5> <i> website source code . . . </i> </font> </sup> <br>
 
